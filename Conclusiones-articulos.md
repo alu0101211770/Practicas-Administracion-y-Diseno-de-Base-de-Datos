@@ -8,7 +8,7 @@ Todo se resume en practicar el proceso repetidas veces, tratando de comprobar to
 
 # Improving Communication Between Data Modelers and Enterprise Stakeholders
 
-La autora de este artículo nos transmite la importancia de incluir procesos de negocio en la arquitectura de la empresa. Ya que para modelar una base de datos es necesario comprender el problema lo máximo posible para poder representarlo de la manera más fiel a la realidad que se pueda, la comunicación entre gente de negocios y técnicos resultará en un desarrollo ágil.
+La autora de este artículo nos transmite la importancia de incluir procesos de negocio en la arquitectura de la empresa. Ya que para modelar una base de datos es necesario comprender el problema lo máximo posible para poder representarlo de la manera más fiel a la realidad que se pueda, la comunicación entre gente de negocios y técnicos resultará en un desarrollo ágil. Y por supuesto, no solo comunicación verbal, también visual para exponer de manera más clara las ideas.
 
 Para una buena colaboración, cada uno tendrá su rol asignado en el trabajo y es necesaria la aportación de cada uno para poder lograr la comunicación de la que hablamos.
 
